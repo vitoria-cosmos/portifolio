@@ -15,4 +15,4 @@ Olá, Bem vindo ao meu projeto de portfólio.
 
 ### Vitoria Cosmo
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
+### Linkedin: https://www.linkedin.com/in/mavics/
