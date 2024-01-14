@@ -13,6 +13,6 @@ Olá, Bem vindo ao meu projeto de portfólio.
 
 ## Feito por:
 
-### Vitoria Cosmo
+### Maria Vitoria Cosmo
 
 ### Linkedin: https://www.linkedin.com/in/mavics/
