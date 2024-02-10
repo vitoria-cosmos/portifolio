@@ -4,7 +4,7 @@ Olá, Bem vindo ao meu projeto de portfólio.
 ## Link da página:  https://vitoria-cosmos.github.io/portifolio/
 
 Imagem da tela principal: 
-<img src="./projectimage/image01.png>
+<img src="./projectimage/image01.png">
 
 ## Ferramentas utilizadas:
 
